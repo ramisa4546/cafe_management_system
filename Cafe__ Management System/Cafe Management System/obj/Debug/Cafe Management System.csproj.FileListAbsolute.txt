@@ -1,0 +1,34 @@
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe Management System.pdb
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.GuestOrder.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UserOrder.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ItemsFrom.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.UsersFrom.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.ViewOrders.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AdminForm.resources
+D:\PDF\OOP02\Cafe Management System\Cafe Management System\obj\Debug\Cafe_Management_System.AdminView.resources
+D:\PDF\IEC\Cafe Management System\bin\Debug\Cafe Management System.exe.config
+D:\PDF\IEC\Cafe Management System\bin\Debug\Cafe Management System.exe
+D:\PDF\IEC\Cafe Management System\bin\Debug\Cafe Management System.pdb
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe Management System.csproj.AssemblyReference.cache
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.AdminForm.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.AdminView.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.Form1.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.GuestOrder.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.ItemsFrom.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.Properties.Resources.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.UserOrder.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.UsersFrom.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe_Management_System.ViewOrders.resources
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe Management System.csproj.GenerateResource.cache
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe Management System.csproj.CoreCompileInputs.cache
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe Management System.exe
+D:\PDF\IEC\Cafe Management System\obj\Debug\Cafe Management System.pdb
